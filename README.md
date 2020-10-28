@@ -1,3 +1,8 @@
 # mbeckdev.github.io
-main seems to be the place I need things to be
- blurg
+
+This started because I asked my friends, "I'm bored and need project ideas. What's the stupidest webpage you can think of?"
+
+They came back with this, "A page that keeps track of how many times you pushed the button."
+
+So here we are. You're welcome. 
+hahaha
