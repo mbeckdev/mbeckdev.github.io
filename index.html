@@ -31,13 +31,27 @@
 
     button {
       border: 1px solid rgba(210, 210, 30, 100);
-      box-shadow: 3px 3px 20px;
+      box-shadow: 2px 2px 6px;
       padding: 50px;
       margin: 20px 0;
       border-radius: 100px;
       font-family: 'Rubik', sans-serif;
       font-size: 4em;
       background-color: rgba(230, 230, 50, 10);
+    }
+
+    button:active {
+      box-shadow: 0 0 0;
+      position: relative;
+      left: 1px;
+      top: 1px;
+      outline: solid;
+      background-color: rgba(229, 229, 49, 10);
+    }
+
+    button:focus {
+      outline: none;
+      /* background: lightgrey; */
     }
 
     #counter {
